@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Agenda</string>
+    <string name="nombre">Introduce el nombre</string>
+    <string name="coment">Introduce los comentarios</string>
+    <string name="btn1">GUARDAR</string>
+    <string name="btn2">BUSCAR</string>
 </resources>
